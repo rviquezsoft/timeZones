@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "sofnomic.timezones/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/sofnomic.timezones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sofnomic.timezones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sofnomic.timezones/1.0.0": {
+      "type": "project",
+      "path": "../sofnomic.timezones/sofnomic.timezones.csproj",
+      "msbuildProject": "../sofnomic.timezones/sofnomic.timezones.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "sofnomic.timezones >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mobilesofnomic/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mobilesofnomic/Projects/timezones/timezones/timezones.csproj",
+      "projectName": "timezones",
+      "projectPath": "/Users/mobilesofnomic/Projects/timezones/timezones/timezones.csproj",
+      "packagesPath": "/Users/mobilesofnomic/.nuget/packages/",
+      "outputPath": "/Users/mobilesofnomic/Projects/timezones/timezones/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mobilesofnomic/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/sofnomic/SofnomicOrdenes/_packaging/modelsfeed/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/sofnomic/_packaging/sofnomic/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/sofnomic.timezones.csproj": {
+              "projectPath": "/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/sofnomic.timezones.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

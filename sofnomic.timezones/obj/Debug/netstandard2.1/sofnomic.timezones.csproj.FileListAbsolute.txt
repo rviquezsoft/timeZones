@@ -1,0 +1,10 @@
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/bin/Debug/netstandard2.1/sofnomic.timezones.deps.json
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/bin/Debug/netstandard2.1/sofnomic.timezones.dll
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/bin/Debug/netstandard2.1/sofnomic.timezones.pdb
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/obj/Debug/netstandard2.1/sofnomic.timezones.csproj.AssemblyReference.cache
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/obj/Debug/netstandard2.1/sofnomic.timezones.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/obj/Debug/netstandard2.1/sofnomic.timezones.AssemblyInfoInputs.cache
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/obj/Debug/netstandard2.1/sofnomic.timezones.AssemblyInfo.cs
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/obj/Debug/netstandard2.1/sofnomic.timezones.csproj.CoreCompileInputs.cache
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/obj/Debug/netstandard2.1/sofnomic.timezones.dll
+/Users/mobilesofnomic/Projects/timezones/sofnomic.timezones/obj/Debug/netstandard2.1/sofnomic.timezones.pdb

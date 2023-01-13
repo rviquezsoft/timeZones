@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timezones", "timezones\timezones.csproj", "{EAD51192-BC5F-4664-8009-1091EB72A242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sofnomic.timezones", "sofnomic.timezones\sofnomic.timezones.csproj", "{4C1F290A-11A0-4672-9DF0-288C1C54EA22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD51192-BC5F-4664-8009-1091EB72A242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD51192-BC5F-4664-8009-1091EB72A242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD51192-BC5F-4664-8009-1091EB72A242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD51192-BC5F-4664-8009-1091EB72A242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1F290A-11A0-4672-9DF0-288C1C54EA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1F290A-11A0-4672-9DF0-288C1C54EA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1F290A-11A0-4672-9DF0-288C1C54EA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1F290A-11A0-4672-9DF0-288C1C54EA22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A839F412-285B-4636-9011-4246AFA4A304}
+	EndGlobalSection
+EndGlobal

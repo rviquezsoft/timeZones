@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "timezones/1.0.0": {
+        "dependencies": {
+          "sofnomic.timezones": "1.0.0"
+        },
+        "runtime": {
+          "timezones.dll": {}
+        }
+      },
+      "sofnomic.timezones/1.0.0": {
+        "runtime": {
+          "sofnomic.timezones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "timezones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sofnomic.timezones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
